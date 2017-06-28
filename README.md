@@ -1,6 +1,9 @@
-## Your Name
+## Toby Hamand
+### www.tobyhamand.com
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I’m a full stack Ruby developer specialising in front end.
+
+(A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.)
 
 ## Skills
 
@@ -23,7 +26,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 2017 to October 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,11 +35,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Sheffield University (September 2006 to July 2010)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Music
+- 2:1
+
+#### Sheffield University (September 2010 to July 2011)
+
+- Sonic Art
+- Pass with Merit
 
 #### Any other qualifications
 
