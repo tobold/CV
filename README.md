@@ -1,9 +1,7 @@
 ## Toby Hamand
 ### www.tobyhamand.com
 
-I’m a full stack Ruby developer specialising in front end.
-
-(A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.)
+After working with sound for 6 years, and running my own business for 2, I wanted a new challenge that would allow me to work creatively and see something built over the course of each project. In July 2017 I left my job and began studying full time at Makers Academy, a developer bootcamp in London, where I am training to become a full stack Ruby developer.
 
 ## Skills
 
