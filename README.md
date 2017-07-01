@@ -47,7 +47,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)
-*Your job title*
-**Company Name** (start_date to end_date)
-*Your job title*  
+**Monocle** (January 2011 to September 2013) & (April 2015 to June 2017)
+*Sound Engineer*
+
+**Draughts** (November 2014 to April 2015)
+*Founder and Creative Director*  
+I co-founded London’s first board game café, gaining a huge amount of press attention from outlets including The Guardian, Time Out, The Metro and London Live. I managed the café for six months until we hired an experienced The café exceeded financial targets and customer level expectations and is now a steady profitable business.
