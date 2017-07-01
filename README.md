@@ -5,33 +5,21 @@ After working with sound for 6 years, and running my own business for 2, I wante
 
 ## Skills
 
-#### This Skill
+#### Hardworking
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Conceived, planned and opened a small business in London - [Draughts](http://www.draughtslondon.com). Involved performing market research, writing a business plan, running a Kickstarter campaign to raise funds, hiring staff and managing the business.
 
-- Experience
-- Achievements
-- Evidence
+#### Fast Learner
 
-#### Another Skill
+Dedicated myself to learning to code in 12 weeks as part of the Makers Academy bootcamp.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- portfolio available here.
 
 ## Education
 
 #### Makers Academy (July 2017 to October 2017)
-
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- 10% course acceptance rate
+- 12 week full time coding bootcamp
 
 #### Sheffield University (September 2006 to July 2010)
 
@@ -42,8 +30,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Sonic Art
 - Pass with Merit
-
-#### Any other qualifications
 
 ## Experience
 
