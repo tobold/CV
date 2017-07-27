@@ -13,7 +13,7 @@ Conceived, planned and opened a small business in London - [Draughts](http://www
 
 Dedicated myself to learning to code in 12 weeks as part of the Makers Academy bootcamp.
 
-- portfolio available [here](https://github.com/tobold/CV).
+- portfolio available [here](https://github.com/tobold).
 
 ## Education
 
