@@ -33,7 +33,7 @@ Dedicated myself to learning to code in 12 weeks as part of the Makers Academy b
 
 ## Experience
 
-**Monocle** (January 2011 to September 2013) & (April 2015 to June 2017)  
+**Monocle** (January 2012 to September 2013) & (April 2015 to June 2017)  
 *Sound Engineer*  
 Monocle 24 is a global current a airs and news station, with live discussion shows broadcast throughout the day. I worked as a sound engineer and producer.
 My responsibilities included:
