@@ -27,16 +27,18 @@ Dedicated myself to learning to code in 12 weeks as part of the Makers Academy b
 ## Education
 
 #### Makers Academy (July 2017 to October 2017)
-- 10% course acceptance rate
 - 12 week full time coding bootcamp
+- *TDD* is a major focus at Makers. Every code we wrote on the course was tested. Weekend challenges aimed for a 100% test coverage.
+- *learn to learn* - Makers Academy taught me how to learn efficiently, in my own way, and most important to enjoy it.
+- *Agile and XP* - During the course we learnt to develop a project from an MVP and incrementaly add features. We were encouraged to run our own standups and retros, and to carefully plan our code before we began a project by domain mapping and creating user stories.
+- 10% course acceptance rate
+
 
 #### Sheffield University (September 2006 to July 2010)
-
 - Bachelor degree in *Music*
 - 2:1
 
 #### Sheffield University (September 2010 to July 2011)
-
 - Masters degree in *Sonic Art*
 - Pass with Merit
 
