@@ -1,7 +1,15 @@
 ## Toby Hamand
+[Linkedin](https://www.linkedin.com/in/toby-hamand) | [Skills](https://github.com/Tobold/CV#skills) | [Education](https://github.com/Tobold/CV#education) | [Work Experience](https://github.com/Tobold/CV#experience)
+
 ### www.tobyhamand.com
 
 After working with sound for 6 years, and running my own business for 2, I wanted a new challenge that would allow me to work creatively and see something built over the course of each project. In July 2017 I left my job and began studying full time at Makers Academy, a developer bootcamp in London, where I am training to become a full stack developer.
+
+## Projects
+
+Project | Description | When | Technologies | Live?
+------- | ----------- | ---- | ------------ | ------
+[Allstaa BnB](https://github.com/tobold/allstaas-bnb) | A copy of Airbnb developed in a team of 4 | Week 6 | JavaScript, Node.js, Express, Mocha / Zombie | -
 
 ## Skills
 
