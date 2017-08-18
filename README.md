@@ -11,6 +11,7 @@ After working with sound for 6 years, and running my own business for 2, I wante
 Project | Description | When | Technologies | Live?
 ------- | ----------- | ---- | ------------ | ------
 [Allstaa BnB](https://github.com/tobold/allstaas-bnb) | A copy of Airbnb developed in a team of 4 | Week 6 | JavaScript, Node.js, Express, Mocha / Zombie | -
+[Vanillanote](git@github.com:tobold/noteapp.git) | A single page note app in vanilla javascript | Week 7 | JavaScript | -
 
 ## Skills
 
