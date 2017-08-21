@@ -10,8 +10,10 @@ After working with sound for 6 years, and running my own business for 2, I wante
 
 Project | Description | When | Technologies | Live?
 ------- | ----------- | ---- | ------------ | ------
+[Vanillanews](https://github.com/tobold/news-summary-challenge) | A single page Guardian news app in vanilla javascript | Week 7 | JavaScript | [heroku](https://vanillajsnews.herokuapp.com/)
+[Vanillanote](https://github.com/tobold/noteapp) | A single page note app in vanilla javascript | Week 7 | JavaScript | [heroku](https://vanillajsnote.herokuapp.com/)
 [Allstaa BnB](https://github.com/tobold/allstaas-bnb) | A copy of Airbnb developed in a team of 4 | Week 6 | JavaScript, Node.js, Express, Mocha / Zombie | -
-[Vanillanote](https://github.com/tobold/noteapp.git) | A single page note app in vanilla javascript | Week 7 | JavaScript | [heroku](https://vanillajsnote.herokuapp.com/)
+
 
 ## Skills
 
