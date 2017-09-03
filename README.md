@@ -9,6 +9,7 @@ After working with sound for 6 years, and running my own business for 2, I wante
 
 Project | Description | When | Technologies | Live?
 ------- | ----------- | ---- | ------------ | ------
+[Gorillas Tribute](https://github.com/Alexander-Blair/gorillas-game-tribute) | Remake of the QBasic game [Gorillas](https://en.wikipedia.org/wiki/Gorillas_(video_game)) | Week 9 | Javascript | [heroku](gorillas-tribute.herokuapp.com/)
 [Tobstagram](https://github.com/tobold/instagram-challenge) | An Instagram clone with a terrible name | Week 8 | Ruby on Rails | [heroku](http://tobstagram.herokuapp.com/)
 [Vanillanews](https://github.com/tobold/news-summary-challenge) | A single page Guardian news app in vanilla javascript | Week 7 | JavaScript | [heroku](https://vanillajsnews.herokuapp.com/)
 [Vanillanote](https://github.com/tobold/noteapp) | A single page note app in vanilla javascript | Week 7 | JavaScript | [heroku](https://vanillajsnote.herokuapp.com/)
