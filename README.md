@@ -1,5 +1,5 @@
 ## Toby Hamand
-[www.tobyhamand.com](www.tobyhamand.com)
+[www.tobyhamand.com](http://www.tobyhamand.com)
 
 [Linkedin](https://www.linkedin.com/in/toby-hamand) | [Skills](https://github.com/Tobold/CV#skills) | [Education](https://github.com/Tobold/CV#education) | [Work Experience](https://github.com/Tobold/CV#experience)
 
@@ -47,7 +47,7 @@ Dedicated myself to learning to code in 12 weeks as part of the Makers Academy b
 
 ## Experience
 
-**Monocle** (January 2012 to September 2013) & (April 2015 to June 2017)  
+**Monocle** (December 2011 to September 2013) & (April 2015 to June 2017)  
 *Sound Engineer*  
 Monocle 24 is a global current a airs and news station, with live discussion shows broadcast throughout the day. I worked as a sound engineer and producer.
 My responsibilities included:
