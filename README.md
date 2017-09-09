@@ -56,7 +56,7 @@ My responsibilities included:
 - Audio editing and podcast production
 - International travel for key events and programmes
 
-**Draughts** (November 2014 to April 2015)  
+**Draughts** (September 2013 to April 2015)  
 *Founder and Creative Director*  
 I co-founded London’s first board game café, gaining a huge amount of press attention from outlets including The Guardian, Time Out, The Metro and London Live. The café exceeded financial targets and customer level expectations and is now a steady profitable business.
 
