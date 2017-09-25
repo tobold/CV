@@ -8,6 +8,7 @@
 After working with sound for 6 years, and running my own business for 2, I wanted a new challenge that would allow me to work creatively and see something built over the course of each project. In July 2017 I left my job and began studying full time at Makers Academy, a developer bootcamp in London, where I am training to become a full stack developer.
 
 ## Projects
+A full list of my projects while at Makers Academy (July 2017 - September 2017)
 
 Project | Description | When | Technologies | Live?
 ------- | ----------- | ---- | ------------ | ------
