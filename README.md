@@ -1,7 +1,9 @@
 ## Toby Hamand
 [www.tobyhamand.com](http://www.tobyhamand.com)
 
-[Linkedin](https://www.linkedin.com/in/toby-hamand) | [Skills](https://github.com/Tobold/CV#skills) | [Education](https://github.com/Tobold/CV#education) | [Work Experience](https://github.com/Tobold/CV#experience)
+[![Linkedin](https://image.ibb.co/efyf4Q/linkedin_32.png)](https://www.linkedin.com/in/toby-hamand)
+
+[Projects](https://github.com/Tobold/CV#projects) | [Skills](https://github.com/Tobold/CV#skills) | [Education](https://github.com/Tobold/CV#education) | [Work Experience](https://github.com/Tobold/CV#experience)
 
 After working with sound for 6 years, and running my own business for 2, I wanted a new challenge that would allow me to work creatively and see something built over the course of each project. In July 2017 I left my job and began studying full time at Makers Academy, a developer bootcamp in London, where I am training to become a full stack developer.
 
