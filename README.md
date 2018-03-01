@@ -47,8 +47,8 @@ Dedicated myself to learning to code in 12 weeks as part of the Makers Academy b
 
 ## Experience
 
-**Triptease** (October 2017 to present)
-*Associate Engineer*
+**Triptease** (October 2017 to present)  
+*Associate Engineer*  
 Triptease describes itself as follows:
 "We're a punchy startup based in the heart of London creating new and powerful ways to re-connect hoteliers with their guests. We’ve already built a popular solution to a burning pain in the hotel industry. The result has been off-the-charts growth, which brings opportunities and challenges. We’ve since expanded our suite of products and are building an impregnable platform to dominate the industry for years to come."
 At the company I have worked in:
