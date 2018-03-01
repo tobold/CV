@@ -1,11 +1,9 @@
 ## Toby Hamand
-[www.tobyhamand.com](http://www.tobyhamand.com)
-
 [![Linkedin](https://image.ibb.co/efyf4Q/linkedin_32.png)](https://www.linkedin.com/in/toby-hamand)
 
 [Projects](https://github.com/Tobold/CV#projects) | [Skills](https://github.com/Tobold/CV#skills) | [Education](https://github.com/Tobold/CV#education) | [Work Experience](https://github.com/Tobold/CV#experience)
 
-After working with sound for 6 years, and running my own business for 2, I wanted a new challenge that would allow me to work creatively and see something built over the course of each project. In July 2017 I left my job and began studying full time at Makers Academy, a developer bootcamp in London, where I am training to become a full stack developer.
+After working with sound for 6 years, and running my own business for 2, I wanted a new challenge that would allow me to work creatively and see something built over the course of each project. In July 2017 I left my job and began studying full time at Makers Academy, a developer bootcamp in London, where I trained to become a full stack developer. Since October 2017 I have been working at [Triptease](https://triptease.com) as a junior developer.
 
 ## Projects
 A full list of my projects while at Makers Academy (July 2017 - September 2017)
@@ -30,8 +28,6 @@ Conceived, planned and opened a small business in London - [Draughts](http://www
 
 Dedicated myself to learning to code in 12 weeks as part of the Makers Academy bootcamp.
 
-- portfolio available [here](http://tobyhamand.com/coding).
-
 ## Education
 
 #### Makers Academy (July 2017 to October 2017)
@@ -50,6 +46,15 @@ Dedicated myself to learning to code in 12 weeks as part of the Makers Academy b
 - 2:1
 
 ## Experience
+
+**Triptease** (October 2017 to present)
+*Associate Engineer*
+Triptease describes itself as follows:
+"We're a punchy startup based in the heart of London creating new and powerful ways to re-connect hoteliers with their guests. We’ve already built a popular solution to a burning pain in the hotel industry. The result has been off-the-charts growth, which brings opportunities and challenges. We’ve since expanded our suite of products and are building an impregnable platform to dominate the industry for years to come."
+At the company I have worked in:
+- React
+- Node
+- Docker
 
 **Monocle** (December 2011 to September 2013) & (April 2015 to June 2017)  
 *Sound Engineer*  
