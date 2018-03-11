@@ -47,8 +47,8 @@ Dedicated myself to learning to code in 12 weeks as part of the Makers Academy b
 
 ## Experience
 
-**Triptease** (October 2017 to present)  
-*Associate Engineer*  
+**Triptease** (October 2017 to present)
+*Associate Engineer*
 Triptease describes itself as follows:  
 >"We're a punchy startup based in the heart of London creating new and powerful ways to re-connect hoteliers with their guests. We’ve already built a popular solution to a burning pain in the hotel industry. The result has been off-the-charts growth, which brings opportunities and challenges. We’ve since expanded our suite of products and are building an impregnable platform to dominate the industry for years to come."
 
@@ -57,16 +57,16 @@ At the company I have worked in:
 - Node
 - Docker
 
-**Monocle** (December 2011 to September 2013) & (April 2015 to June 2017)  
+**Monocle** (December 2011 to September 2013) & (April 2015 to June 2017)
 *Sound Engineer*  
-Monocle 24 is a global current a airs and news station, with live discussion shows broadcast throughout the day. I worked as a sound engineer and producer.
+Monocle 24 is a global current affairs and news station, with live discussion shows broadcast throughout the day. I worked as a sound engineer and producer.
 My responsibilities included:
 - Sole production responsibilities for a number of programmes
 - Liaising with correspondents
 - Audio editing and podcast production
 - International travel for key events and programmes
 
-**Draughts** (September 2013 to April 2015)  
+**Draughts** (September 2013 to April 2015)
 *Founder and Creative Director*  
 I co-founded London’s first board game café, gaining a huge amount of press attention from outlets including The Guardian, Time Out, The Metro and London Live. The café exceeded financial targets and customer level expectations and is now a steady profitable business.
 
@@ -75,7 +75,8 @@ Achievements include:
 - Securing both a government start-up loan and a small business loan from a private bank
 
 My role in the project included:
-- Sourcing and evaluating potential investors, suppliers and sta  • Market analysis and creation of a business plan
+- Sourcing and evaluating potential investors, suppliers and staff
+- Market analysis and creation of a business plan
 - The overall design of branding and all marketing materials with the exception of the company logo
 - Communicating and meeting with board game shops and companies for the purposes of future collaboration
 - Creation of company website from scratch
